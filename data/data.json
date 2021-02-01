@@ -1,0 +1,36 @@
+{
+    "mobiles":[
+        {
+            "name": "Mi note 9 pro",
+            "image": "img/1.jpg",
+            "originalPrice": "16000",
+            "price": "15999"
+        },
+        {
+            "name": "Vivo Y50",
+            "image": "img/2.jpg",
+            "originalPrice": "15000",
+            "price": "14999"
+        },
+        {
+            "name": "Iphone 12 pro",
+            "image": "img/3.jpg",
+            "originalPrice": "160000",
+            "price": "160000"
+        },
+        {
+            "name": "Nokia 3310",
+            "image": "img/4.jpg",
+            "originalPrice": "600",
+            "price": "599"
+        },
+        {
+            "name": "Jio Phone",
+            "image": "img/5.jpg",
+            "originalPrice": "1000",
+            "price": "999"
+        }
+    ]
+
+
+}
